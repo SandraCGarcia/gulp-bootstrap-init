@@ -7,4 +7,9 @@ herramientas usadas en este proyecto:
  (`npm install -D gulp gulp-cli gulp-sass browser-sync`)
 
  Arranque proyecto:
- 
+ `gulp`
+
+ versión de gulp:
+ Gulp4
+ (https://fettblog.eu/gulp-4-parallel-and-series/)
+
